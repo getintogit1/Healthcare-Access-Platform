@@ -22,6 +22,7 @@ This Web App is a modern web application that visualizes the distribution and ac
 ## 📍 Example View
 
 - OCM Orthopädische Chirurgie München marked with detailed location
+- --> In the Background my current location is fetched and the nearest hospital is calcualted and displayed
 - District-wise breakdown of pharmacies per resident
 - Dark and light visualizations for user preferences
 
