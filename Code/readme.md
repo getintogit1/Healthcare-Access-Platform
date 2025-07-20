@@ -12,12 +12,13 @@ This project is a Django-based website that utilizes HTML, CSS, JavaScript, Leaf
 
 ## Installation
 1. Clone this repository to your local machine using:<br>
-git clone "https://git.sbg.ac.at/s1086122/designstudio_ss24.git"
+git clone
 
-2. Navigate into the project directory:<br>
+
+3. Navigate into the project directory:<br>
 \path\to\your\dir>
 
-3. Install the required dependencies:<br>
+4. Install the required dependencies:<br>
 \path\to\your\dir> **pip install -r ./requirements.txt**
 
 If its not working you need to delet directory hierachie by deleting folder:[pages, analyse]<br>
